@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooksInventory.API", "BooksInventory.API\BooksInventory.API.csproj", "{45F2241E-A44B-4E09-A212-2B08CD0CB9D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksInventory.Tests", "BooksInventory.Test\BooksInventory.Tests.csproj", "{368E4E63-6AEF-4108-BF4A-14BABA4F2830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45F2241E-A44B-4E09-A212-2B08CD0CB9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F2241E-A44B-4E09-A212-2B08CD0CB9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F2241E-A44B-4E09-A212-2B08CD0CB9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F2241E-A44B-4E09-A212-2B08CD0CB9D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{368E4E63-6AEF-4108-BF4A-14BABA4F2830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{368E4E63-6AEF-4108-BF4A-14BABA4F2830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{368E4E63-6AEF-4108-BF4A-14BABA4F2830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{368E4E63-6AEF-4108-BF4A-14BABA4F2830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39E2758A-2CF2-44B3-A5A1-771DA0ADA0AF}
+	EndGlobalSection
+EndGlobal

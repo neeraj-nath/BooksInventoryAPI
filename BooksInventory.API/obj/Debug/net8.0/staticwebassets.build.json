@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3CHP/QqX7z5m3qtSxKYbikaYAFX0Q+JitF/V9RbBp9s=",
+  "Source": "BooksInventory.API",
+  "BasePath": "_content/BooksInventory.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
